@@ -1,0 +1,7 @@
+Air Temperature
+Dew Point Temperature
+Sea Level Pressure
+Wind Direction
+Wind Speed Rate
+Sky Condition Code
+Precip
